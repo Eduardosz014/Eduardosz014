@@ -4,4 +4,6 @@ Olá, bem vindos ao meu perfil
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para compartilhar os meus projetos desenvolvidos
 - 
+- *Meu contato*
+- eduardoalmeida200813@gmail.com
 
